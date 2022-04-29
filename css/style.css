@@ -4,14 +4,24 @@
 }
 
 body{
-    background-color: black;
-    color: white;
+    background: linear-gradient(rgb(204, 0, 255),rgb(146, 49, 170),rgb(10, 10, 10));
+    color: rgb(45, 43, 90);
+    font-style: oblique;
 }
 
 main{
-    background-color: aqua;
-    width:  500px;
+    background-color: yellow;
+    width:  570px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.4);
+}
+
+h1, h2{
+    color: blue;
+
+}
+
+img.lado{
+    float: right;
 }
